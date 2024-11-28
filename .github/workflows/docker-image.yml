@@ -33,7 +33,7 @@ jobs:
           context: .
           file: ./app/Dockerfile.backend
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/backend:latest
+          tags: backend:latest
 
       # Build and push frontend image
       - name: Build and push frontend image
@@ -42,4 +42,4 @@ jobs:
           context: .
           file: ./app/Dockerfile.frontend
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/frontend:latest
+          tags: frontend:latest
