@@ -31,7 +31,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
-          file: ./app/Dockerfile.backend
+          file: app/Dockerfile.backend
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/app-backend:latest
 
@@ -40,6 +40,6 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
-          file: ./app/Dockerfile.frontend
+          file: app/Dockerfile.frontend
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}app-frontend:latest
