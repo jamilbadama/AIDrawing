@@ -92,7 +92,7 @@ ____
         * sjgs 
 - djs gdsg
 
-## 2. [The State of AI in 2025](htpp://www.google.com)
+## 2. [The State of AI in 2025](http://www.google.com)
 
 **Foundation + small models.** Powerful general models coexist with specialized small models optimized for latency, privacy, and cost. Retrieval-augmented generation (RAG) and tool-use have become default patterns for grounding and control.
 
