@@ -57,6 +57,14 @@ for epoch in epochs:
 
 ---
 
+| ID | Name       | Age | Department        |
+| -- | ---------- | --- | ----------------- |
+| 1  | Alice Kim  | 24  | Computer Science  |
+| 2  | Bob Lee    | 27  | Mechanical Eng.   |
+| 3  | Carol Park | 22  | Electrical Eng.   |
+| 4  | David Choi | 25  | AI & Data Science |
+
+
 ###### 1. Introduction
 
 ![system workflow](overview-light.svg)
@@ -64,7 +72,12 @@ for epoch in epochs:
 ***AI systems*** have __transitioned__ from task-s**peci**fic models to general-purpose platforms that can <br/>
 flex across domains using instructions, tools, and memory. This inflection is driven by scaling, better data curation, multimodal architectures, and advances in optimization and systems engineering. The next phase is less about raw benchmark gains and more about reliability, cost, safety, and integration into workflows and physical processes.
 
-hfhf
+Here's a simple footnote,[^1] and	here's	a longer one.[^bignote]
+
+[^1]: This	is  the	first	footnote.
+
+[^bignote]: Here's one	with  multiple  paragraphs and  code.
+
 
 ____
 
