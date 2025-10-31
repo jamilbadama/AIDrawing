@@ -1,3 +1,6 @@
+
+[Korean](README_ko.md) | Englsih
+
 # The Future of AI: Trends, Risks, and Roadmaps (2025)
 
 **Abstract**
