@@ -1,5 +1,5 @@
 
-[Korean](README ko.md) | Englsih
+[Korean](README%20ko.md) | Englsih
 
 # The Future of AI: Trends, Risks, and Roadmaps (2025)
 
