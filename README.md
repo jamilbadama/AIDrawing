@@ -8,15 +8,17 @@ Foundation models; small models; agents; multimodality; robotics; evaluation; al
 
 ---
 
-Term 1  
-: Definition 1
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
 
-Term 2  
-: Definition 2
 
-Term 3  
-: Definition 3
-
+- [x]  Write  the  press  release
+- [ ] Update  the  website
+- [ ]  Contact  the  media
 
 
 ---
