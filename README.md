@@ -78,8 +78,10 @@ Here's a simple footnote,[^1] and	here's	a longer one.[^bignote]
 
 [^bignote]: Here's one	with  multiple  paragraphs and  code.
 
+H~2~O
 
 ____
+😀
 
 >This paper aims to 
 > - describe where the field stands in late 2025; 
