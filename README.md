@@ -56,7 +56,7 @@ for epoch in epochs:
 
 ###### 1. Introduction
 
-![system workflow](https://mintcdn.com/langchain-5e9cc07a/gnE-C9CZc2IgnmJo/langsmith/images/overview-light.svg)
+![system workflow](https://mintcdn.com/langchain-5e9cc07a/gnE-C9CZc2IgnmJo/langsmith/images/overview-light.svg?w=1100&fit=max&auto=format&n=gnE-C9CZc2IgnmJo&q=85&s=65946469f91ff9cfbd26d154d31c6caf)
 
 ***AI systems*** have __transitioned__ from task-s**peci**fic models to general-purpose platforms that can <br/>
 flex across domains using instructions, tools, and memory. This inflection is driven by scaling, better data curation, multimodal architectures, and advances in optimization and systems engineering. The next phase is less about raw benchmark gains and more about reliability, cost, safety, and integration into workflows and physical processes.
