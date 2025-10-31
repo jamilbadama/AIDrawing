@@ -1,7 +1,9 @@
-# AIDrawing
+Project alpha - install: run pip install alpha
+features: fast, simple; docs later
 
-this is testing
 
-vxfdf 
- c n nxd
-  b
+# Project Alpha
+
+## Installation
+```bash
+pip install alpha
